@@ -4,7 +4,7 @@ Next.jsのgetStaticPropsとgetStaticPaths を使ってmicroCMSのデータを取
 
 ## バージョン
 
-- Next.js 10.0.1
+- Next.js 11.1.0
 - React 17.0.1
 - ReactDOM 17.0.1
 
